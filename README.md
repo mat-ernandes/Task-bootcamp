@@ -7,7 +7,7 @@
 ## 📸 Preview
 
 > Interface moderna com dashboard, filtros dinâmicos e interação sem reload
-<img width="1900" height="1833" alt="Image" src="https://github.com/user-attachments/assets/acac5fd7-42d1-4b5e-b460-6b8be1c0f0ad" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3608f10e-52d7-4fbe-b442-d71b6bdd633a" />
 
 ## Descrição do Projeto
 
